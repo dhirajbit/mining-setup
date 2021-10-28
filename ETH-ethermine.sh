@@ -1,2 +1,2 @@
 #!/bin/sh
-./t-rex -a ethash -o stratum+tcp://eu1.ethermine.org:4444 -u 0x2fb50d54fd42fd777913bb0191aa15976742f15d -p x
+./t-rex -a ethash -o stratum+tcp://eu1.ethermine.org:4444 -u 0x3878c0c5e5eabcb6c2b4f4c82f8cac9e057d3d27 -p x
